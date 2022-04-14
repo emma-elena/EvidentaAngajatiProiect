@@ -63,16 +63,6 @@ namespace EvidentaAngajati.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap emblema_proiect {
-            get {
-                object obj = ResourceManager.GetObject("emblema_proiect", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap emblema_proiect1 {
             get {
                 object obj = ResourceManager.GetObject("emblema_proiect1", resourceCulture);

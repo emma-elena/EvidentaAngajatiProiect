@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace EvidentaAngajati
 {
-    public partial class MainForm : Form
+    public partial class Angajat : Form
     {
-        public MainForm()
+        public Angajat()
         {
             InitializeComponent();
         }
@@ -22,22 +22,7 @@ namespace EvidentaAngajati
 
         }
 
-        private void label2_Click_1(object sender, EventArgs e)
-        {
-
-        }
-
-        private void MainForm_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label5_Click(object sender, EventArgs e)
+        private void label3_Click(object sender, EventArgs e)
         {
 
         }
